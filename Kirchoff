@@ -1,0 +1,29 @@
+class snehasish
+     {
+      public void main(int S )
+      {
+       int i,j;
+       for(i=0;i<=j;i++)
+       {
+        for(j=0;j<=S;j++)
+        {
+          snehasish;
+          return;}
+          }
+          }
+          snehasish()
+          {
+           int ii;
+           int jj;
+           for(ii=0;ii<jj;ii++)
+            {
+             for(jj=0;jj<S;jj++)
+             {
+              System.out.print("Trigonometry calling"+ii);
+              System.out.println("Scalene calling"+jj.MathsSQ());
+              }
+              }
+              }
+         }
+        }
+        
