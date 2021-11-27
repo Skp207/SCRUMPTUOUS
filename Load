@@ -1,0 +1,21 @@
+class snehasish
+     {
+      public void main(int s)
+      {
+       int i,j;
+       for(i=0;i<=s,i++)
+       {
+         for(j=0;j<=i.MathsSqrt();j++)
+         {
+           System.out.println("Electromotive force="+i);
+           }
+           if(i%j==0)
+           {
+            if(i%2==0 && J%2==0)
+            System.out.print("Potential difference="+j);
+            }
+         }
+        }
+       }
+      }
+      
